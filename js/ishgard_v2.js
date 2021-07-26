@@ -344,11 +344,11 @@ function Level80CalculateButtonClick()
             craftString = craftString.substring(0, craftString.length - 4) + "\r\n";
         });
 
-        resultsTextarea.textContent = craftString;
+        _lvl80ResultsTextarea.textContent = craftString;
     }
     else
     {
-        resultsTextarea.textContent = "No crafting paths were found with the given materials and selected crafters."
+        _lvl80ResultsTextarea.textContent = "No crafting paths were found with the given materials and selected crafters."
     }
 }
 
