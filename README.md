@@ -10,7 +10,7 @@ Want to get the most Kupo Stamp bang for your Diadem materials buck? Then this i
 4. Click Calculate!
 
 The box that shows up will tell you the most crafts you can make with the Diadem materials you entered. Each line is a different combination of crafters that will all yield the same number of crafts!
-You can then use those numbers to gather or buy the non-Diadem materials you're missing and get crafting. If seeing non-Diadem materials in the tool is something you'd like, refer down a few sections where I tell you how to let me know that.
+You can then use those numbers to gather or buy the non-Diadem materials you're missing and get crafting. If seeing non-Diadem materials in the tool is something you'd like, refer down a few sections where I tell you how to contact me.
 
 **NOTE**: This is ONLY for Grade 4 Ishgard Restoration crafts. Since the other materials are no longer obtainable (with the exception of expert craft materials), I elected to not implement the other grades.
 
@@ -25,10 +25,10 @@ If you need help with finishing a craft with enough collectability, I encourage 
 
 Expert crafts, despite being mostly similar, are different enough that my current approach doesn't work for them. This is something else that I might add later or if there's enough interest for it, but for now, no expert crafts. Sorry :(
 
-# I'd like to see non-Diadem material counts or expert crafts in the tool
-
-If you're in the group of people that would like to see non-Diadem mats or expert crafts in this tool, just drop me a DM on Reddit (/u/ciarenni), or if you're in the Aether data center you can whisper Nimbly Bimbly on Gilgamesh if I'm online. You can also file an issue here on GitHub if you have an account, but don't go out of your way to make one for that. Reddit is probably the easiest. 
-
 # This tool is awesome, I wish it had been available during ranked crafting
 
 Yeah, ME TOO. That's actually what gave me the idea for this tool, but it turns out that writing algorithms from scratch is HARD.
+
+# Contact me
+
+If you'd like to see non-Diadem materials or expert crafts in this tool, just drop me a DM on Reddit (/u/ciarenni), or if you're in the Aether data center you can whisper Nimbly Bimbly on Gilgamesh if I'm online. You can also file an issue here on GitHub if you have an account, but don't go out of your way to make one for that. Reddit is probably the easiest. 
